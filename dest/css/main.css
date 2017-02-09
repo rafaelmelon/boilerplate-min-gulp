@@ -1,0 +1,10 @@
+/* main.scss */
+/*@import "bootstrap";
+@import "bootstrap/theme";*/
+body {
+  background-color: grey; }
+
+.test {
+  background-color: white; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5jc3MiLCJzb3VyY2VzIjpbIm1haW4uc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIvKiBtYWluLnNjc3MgKi9cbi8qQGltcG9ydCBcImJvb3RzdHJhcFwiO1xuQGltcG9ydCBcImJvb3RzdHJhcC90aGVtZVwiOyovXG5cbmJvZHkge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBncmV5O1xufVxuXG4udGVzdCB7XG4gIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xufVxuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGVBQWU7QUFDZjs0QkFDNEI7QUFFNUIsQUFBQSxJQUFJLENBQUM7RUFDSCxnQkFBZ0IsRUFBRSxJQUFJLEdBQ3ZCOztBQUVELEFBQUEsS0FBSyxDQUFDO0VBQ0osZ0JBQWdCLEVBQUUsS0FBSyxHQUN4QiJ9 */
