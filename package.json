@@ -1,8 +1,14 @@
 {
-  "name": "test-pasalo",
+  "name": "boilerplate-min-gulp",
   "version": "1.0.0",
-  "description": "esto es una prueba",
+  "description": "A minimal boilerplate with Gulp and SASS",
   "main": "gulpfile.js",
+  "author": "Rafael Melón <info@rafaelmelon.es> (http://rafaelmelon.es/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rafaelmelon/boilerplate-react-webpack.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
